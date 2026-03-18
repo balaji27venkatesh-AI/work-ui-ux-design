@@ -1,4 +1,10 @@
 # work-ui-ux-design
-repo to contain all the ui ux design work that I do 
-I have used canva and learnt things by doing rather than watching youtube videos
+This repository contains poster designs created for:
 
+1. My YouTube channel (content promotion & branding)
+2. Temple volunteering activities (event communication)
+
+Focus areas:
+- Visual clarity
+- Cultural/aesthetic alignment
+- Message simplification
